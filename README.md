@@ -20,28 +20,40 @@
 1. 🖋️ **[Title 1](#)**  
    *📚 Published in*: _Journal Name_, **Year**  
    *🔗 Link*: [Access Paper](#)  
-   <hr style="border: 0; border-top: 1px solid #4CAF50;">
+   <hr style="border: 0; border-top: 2px solid yellow;">
 2. 🖋️ **[Title 2](#)**  
    *📚 Published in*: _Journal Name_, **Year**  
    *🔗 Link*: [Access Paper](#)  
-   <hr style="border: 0; border-top: 1px solid #4CAF50;">
+   <hr style="border: 0; border-top: 2px solid yellow;">
 3. 🖋️ **[Title 3](#)**  
    *📚 Published in*: _Journal Name_, **Year**  
    *🔗 Link*: [Access Paper](#)  
+   <hr style="border: 0; border-top: 2px solid yellow;">
+4. 🖋️ **[Title 4](#)**  
+   *📚 Published in*: _Journal Name_, **Year**  
+   *🔗 Link*: [Access Paper](#)  
+   <hr style="border: 0; border-top: 2px solid yellow;">
+5. 🖋️ **[Title 5](#)**  
+   *📚 Published in*: _Journal Name_, **Year**  
+   *🔗 Link*: [Access Paper](#)
 </td>
 
 <td style="padding: 15px; border: 1px solid #ddd; vertical-align: top; background-color: #f9f9f9;">
 1. 🗣️ **[Title 1](#)**  
    *🎤 Presented at*: _Conference Name_, **Year**  
    *🔗 Link*: [Access Paper](#)  
-   <hr style="border: 0; border-top: 1px solid #4CAF50;">
+   <hr style="border: 0; border-top: 2px solid yellow;">
 2. 🗣️ **[Title 2](#)**  
    *🎤 Presented at*: _Conference Name_, **Year**  
    *🔗 Link*: [Access Paper](#)  
-   <hr style="border: 0; border-top: 1px solid #4CAF50;">
+   <hr style="border: 0; border-top: 2px solid yellow;">
 3. 🗣️ **[Title 3](#)**  
    *🎤 Presented at*: _Conference Name_, **Year**  
    *🔗 Link*: [Access Paper](#)  
+   <hr style="border: 0; border-top: 2px solid yellow;">
+4. 🗣️ **[Title 4](#)**  
+   *🎤 Presented at*: _Conference Name_, **Year**  
+   *🔗 Link*: [Access Paper](#)
 </td>
 </tr>
 </table>
