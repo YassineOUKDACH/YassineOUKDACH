@@ -65,6 +65,14 @@
 
 
 <br><br>
+---
+
+## 💡 Research Interests
+- **Machine Learning** in **Healthcare**: Focus on **polyp detection**, **skin cancer recognition**, and **gastrointestinal disease diagnosis**.
+- **Computer Vision** techniques such as **semantic segmentation**, **object detection**, and **image enhancement** applied to medical imaging.
+- **AI Models**: Developing advanced models like **CNNs**, **Transformers**, and **Knowledge Distillation** in **Medical Imaging**.
+
+---
 
 
 # 📝 Publications
@@ -127,11 +135,3 @@
 </table>
 </p>
 </section>
----
-
-## 💡 Research Interests
-- **Machine Learning** in **Healthcare**: Focus on **polyp detection**, **skin cancer recognition**, and **gastrointestinal disease diagnosis**.
-- **Computer Vision** techniques such as **semantic segmentation**, **object detection**, and **image enhancement** applied to medical imaging.
-- **AI Models**: Developing advanced models like **CNNs**, **Transformers**, and **Knowledge Distillation** in **Medical Imaging**.
-
----
