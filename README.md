@@ -58,7 +58,7 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
 </a>
-<br><br><br><br><br>
+<br><br>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YassineOUKDACH&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" style="margin-right: 20px;" /></p>
   <img src="https://github-readme-stats.vercel.app/api?username=YassineOUKDACH&show_icons=true&theme=radical" alt="GitHub Stats" style="display: inline-block; margin-right: 20px;">
