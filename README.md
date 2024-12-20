@@ -56,76 +56,86 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="wsl" width="40" height="40"/> 
   </a> 
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
-</a>
-<br>
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
+  </a>
+</p>
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YassineOUKDACH&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" style="margin-right: 20px;" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YassineOUKDACH&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" style="margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=YassineOUKDACH&show_icons=true&theme=radical" alt="GitHub Stats" style="display: inline-block; margin-right: 20px;">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YassineOUKDACH&theme=dark" alt="GitHub Streak" style="display: inline-block;">
 </p>
 
-
 <br><br>
 
-
 # 📝 Publications
+
 <section>
   <p align="center">
-<table align="center" style="border: 2px solid #FFA500; border-collapse: collapse; width: 90%;">
-<thead>
-<tr style="background-color: #FF8C00; color: white; text-align: center;">
-<th style="padding: 15px; font-size: 18px;">📄 Research Papers</th>
-<th style="padding: 15px; font-size: 18px;">📘 Conference Proceedings</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="padding: 15px; border: 1px solid #FFA500; background-color: #FFF8E1;">
-<ol>
-  <li>🖋️ <b>[Title 1](#)</b><br>
-      <i>📚 Published in:</i> <u>Journal Name</u>, <b>Year</b><br>
-      <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
-  <hr style="border: 0; border-top: 3px solid #FF4500;">
-  <li>🖋️ <b>[Title 2](#)</b><br>
-      <i>📚 Published in:</i> <u>Journal Name</u>, <b>Year</b><br>
-      <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
-  <hr style="border: 0; border-top: 3px solid #FF4500;">
-  <li>🖋️ <b>[Title 3](#)</b><br>
-      <i>📚 Published in:</i> <u>Journal Name</u>, <b>Year</b><br>
-      <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
-  <hr style="border: 0; border-top: 3px solid #FF4500;">
-  <li>🖋️ <b>[Title 4](#)</b><br>
-      <i>📚 Published in:</i> <u>Journal Name</u>, <b>Year</b><br>
-      <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
-  <hr style="border: 0; border-top: 3px solid #FF4500;">
-  <li>🖋️ <b>[Title 5](#)</b><br>
-      <i>📚 Published in:</i> <u>Journal Name</u>, <b>Year</b><br>
-      <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
-</ol>
-</td>
+    <table align="center" style="border: 2px solid #FFA500; border-collapse: collapse; width: 90%;">
+      <thead>
+        <tr style="background-color: #FF8C00; color: white; text-align: center;">
+          <th style="padding: 15px; font-size: 18px;">📄 Research Papers</th>
+          <th style="padding: 15px; font-size: 18px;">📘 Conference Proceedings</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="padding: 15px; border: 1px solid #FFA500; background-color: #FFF8E1;">
+            <ol>
+              <li>🖋️ <b>[Title 1](#)</b><br>
+                  <i>📚 Published in:</i> <u>Journal Name</u>, <b>Year</b><br>
+                  <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
+              <hr style="border: 0; border-top: 3px solid #FF4500;">
+              <li>🖋️ <b>[Title 2](#)</b><br>
+                  <i>📚 Published in:</i> <u>Journal Name</u>, <b>Year</b><br>
+                  <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
+              <hr style="border: 0; border-top: 3px solid #FF4500;">
+              <li>🖋️ <b>[Title 3](#)</b><br>
+                  <i>📚 Published in:</i> <u>Journal Name</u>, <b>Year</b><br>
+                  <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
+              <hr style="border: 0; border-top: 3px solid #FF4500;">
+              <li>🖋️ <b>[Title 4](#)</b><br>
+                  <i>📚 Published in:</i> <u>Journal Name</u>, <b>Year</b><br>
+                  <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
+              <hr style="border: 0; border-top: 3px solid #FF4500;">
+              <li>🖋️ <b>[Title 5](#)</b><br>
+                  <i>📚 Published in:</i> <u>Journal Name</u>, <b>Year</b><br>
+                  <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
+            </ol>
+          </td>
 
-<td style="padding: 15px; border: 1px solid #FFA500; background-color: #FFF8E1;">
-<ol>
-  <li>🗣️ <b>[Title 1](#)</b><br>
-      <i>🎤 Presented at:</i> <u>Conference Name</u>, <b>Year</b><br>
-      <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
-  <hr style="border: 0; border-top: 3px solid #FF4500;">
-  <li>🗣️ <b>[Title 2](#)</b><br>
-      <i>🎤 Presented at:</i> <u>Conference Name</u>, <b>Year</b><br>
-      <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
-  <hr style="border: 0; border-top: 3px solid #FF4500;">
-  <li>🗣️ <b>[Title 3](#)</b><br>
-      <i>🎤 Presented at:</i> <u>Conference Name</u>, <b>Year</b><br>
-      <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
-  <hr style="border: 0; border-top: 3px solid #FF4500;">
-  <li>🗣️ <b>[Title 4](#)</b><br>
-      <i>🎤 Presented at:</i> <u>Conference Name</u>, <b>Year</b><br>
-      <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
-</ol>
-</td>
-</tr>
-</tbody>
-</table>
-</p>
+          <td style="padding: 15px; border: 1px solid #FFA500; background-color: #FFF8E1;">
+            <ol>
+              <li>🗣️ <b>[Title 1](#)</b><br>
+                  <i>🎤 Presented at:</i> <u>Conference Name</u>, <b>Year</b><br>
+                  <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
+              <hr style="border: 0; border-top: 3px solid #FF4500;">
+              <li>🗣️ <b>[Title 2](#)</b><br>
+                  <i>🎤 Presented at:</i> <u>Conference Name</u>, <b>Year</b><br>
+                  <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
+              <hr style="border: 0; border-top: 3px solid #FF4500;">
+              <li>🗣️ <b>[Title 3](#)</b><br>
+                  <i>🎤 Presented at:</i> <u>Conference Name</u>, <b>Year</b><br>
+                  <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
+              <hr style="border: 0; border-top: 3px solid #FF4500;">
+              <li>🗣️ <b>[Title 4](#)</b><br>
+                  <i>🎤 Presented at:</i> <u>Conference Name</u>, <b>Year</b><br>
+                  <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
+              <hr style="border: 0; border-top: 3px solid #FF4500;">
+            </ol>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </p>
 </section>
+
+---
+
+## 💡 Research Interests
+- **Machine Learning** in **Healthcare**: Focus on **polyp detection**, **skin cancer recognition**, and **gastrointestinal disease diagnosis**.
+- **Computer Vision** techniques such as **semantic segmentation**, **object detection**, and **image enhancement** applied to medical imaging.
+- **AI Models**: Developing advanced models like **CNNs**, **Transformers**, and **Knowledge Distillation** in **Medical Imaging**.
+
+---
