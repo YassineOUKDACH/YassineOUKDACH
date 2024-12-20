@@ -92,7 +92,7 @@
 <td style="padding: 15px; border: 1px solid #FFA500; background-color: #FFF8E1;">
 <ol>
   <li>🖋️ <b>ViTCA-Net(#)</b><br>
-      <i>📚 Published in:</i> <u>MTAP</u>, <b>Year</b><br>
+      <i>📚 Published in:</i> <u>MTAP</u>, <b>2024</b><br>
       <i>🔗 Link:</i> <a href="https://link.springer.com/article/10.1007/s11042-023-18039-1">Access Paper</a></li>
   <hr style="border: 0; border-top: 3px solid #FF4500;">
   <li>🖋️ <b>[Title 2](#)</b><br>
