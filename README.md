@@ -92,24 +92,24 @@
 <td style="padding: 15px; border: 1px solid #FFA500; background-color: #FFF8E1;">
 <ol>
   <li>🖋️ <b>ViTCA-Net</b><br>
-      <i>📚 Published in:</i> <u>MTAP</u>, <b>2024</b><br>
+      <i>📚 Published in:</i> <u>MTAP</u>, <b>2023</b><br>
       <i>🔗 Link:</i> <a href="https://link.springer.com/article/10.1007/s11042-023-18039-1">Access Paper</a></li>
   <hr style="border: 0; border-top: 3px solid #FF4500;">
   <li>🖋️ <b>UViT-Seg</b><br>
       <i>📚 Published in:</i> <u>JDIM</u>, <b>2024</b><br>
       <i>🔗 Link:</i> <a href="#]https://link.springer.com/article/10.1007/s10278-024-01124-8">Access Paper</a></li>
   <hr style="border: 0; border-top: 3px solid #FF4500;">
-  <li>🖋️ <b>[Title 3](#)</b><br>
-      <i>📚 Published in:</i> <u>Journal Name</u>, <b>Year</b><br>
-      <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
+  <li>🖋️ <b>SPDNet</b><br>
+      <i>📚 Published in:</i> <u>IEEE AcCess</u>, <b>2024</b><br>
+      <i>🔗 Link:</i> <a href="https://ieeexplore.ieee.org/document/10418593">Access Paper</a></li>
   <hr style="border: 0; border-top: 3px solid #FF4500;">
-  <li>🖋️ <b>[Title 4](#)</b><br>
-      <i>📚 Published in:</i> <u>Journal Name</u>, <b>Year</b><br>
-      <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
+  <li>🖋️ <b>MLFA-UNet</b><br>
+      <i>📚 Published in:</i> <u>Methods</u>, <b>2024</b><br>
+      <i>🔗 Link:</i> <a href="https://www.sciencedirect.com/science/article/abs/pii/S1046202324002275">Access Paper</a></li>
   <hr style="border: 0; border-top: 3px solid #FF4500;">
-  <li>🖋️ <b>[Title 5](#)</b><br>
-      <i>📚 Published in:</i> <u>Journal Name</u>, <b>Year</b><br>
-      <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
+  <li>🖋️ <b>DMFC-UFormer</b><br>
+      <i>📚 Published in:</i> <u>BSPC</u>, <b>Year</b><br>
+      <i>🔗 Link:</i> <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809424012588">Access Paper</a></li>
 </ol>
 </td>
 
