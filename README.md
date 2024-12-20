@@ -60,11 +60,10 @@
 </a>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YassineOUKDACH&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=YassineOUKDACH&show_icons=true&theme=radical" alt="GitHub Stats" style="display: inline-block; margin-right: 20px;">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YassineOUKDACH&theme=dark" alt="anii693" style="display: inline-block;">
 </p>
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YassineOUKDACH&theme=dark" alt="anii693">
-</p>
+
 
 
 # 📝 Publications
