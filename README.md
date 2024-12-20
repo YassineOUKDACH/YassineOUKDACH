@@ -105,29 +105,37 @@
             </ol>
           </td>
 
-          <td style="padding: 15px; border: 1px solid #FFA500; background-color: #FFF8E1;">
-            <ol>
-              <li>🗣️ <b>[Title 1](#)</b><br>
-                  <i>🎤 Presented at:</i> <u>Conference Name</u>, <b>Year</b><br>
-                  <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
-              <hr style="border: 0; border-top: 3px solid #FF4500;">
-              <li>🗣️ <b>[Title 2](#)</b><br>
-                  <i>🎤 Presented at:</i> <u>Conference Name</u>, <b>Year</b><br>
-                  <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
-              <hr style="border: 0; border-top: 3px solid #FF4500;">
-              <li>🗣️ <b>[Title 3](#)</b><br>
-                  <i>🎤 Presented at:</i> <u>Conference Name</u>, <b>Year</b><br>
-                  <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
-              <hr style="border: 0; border-top: 3px solid #FF4500;">
-              <li>🗣️ <b>[Title 4](#)</b><br>
-                  <i>🎤 Presented at:</i> <u>Conference Name</u>, <b>Year</b><br>
-                  <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
-              <hr style="border: 0; border-top: 3px solid #FF4500;">
-            </ol>
-          </td>
-        </tr>
-      </tbody>
-    </table>
+  <table style="width: 100%; border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="padding: 15px; border: 1px solid #FFA500; background-color: #FFF8E1;">
+        <ol>
+          <li>🗣️ <b>[Title 1](#)</b><br>
+              <i>🎤 Presented at:</i> <u>Conference Name</u>, <b>Year</b><br>
+              <i>🔗 Link:</i> <a href="#">Access Paper</a>
+          </li>
+          <hr style="border: 0; border-top: 3px solid #FF4500;">
+          <li>🗣️ <b>[Title 2](#)</b><br>
+              <i>🎤 Presented at:</i> <u>Conference Name</u>, <b>Year</b><br>
+              <i>🔗 Link:</i> <a href="#">Access Paper</a>
+          </li>
+          <hr style="border: 0; border-top: 3px solid #FF4500;">
+          <li>🗣️ <b>[Title 3](#)</b><br>
+              <i>🎤 Presented at:</i> <u>Conference Name</u>, <b>Year</b><br>
+              <i>🔗 Link:</i> <a href="#">Access Paper</a>
+          </li>
+          <hr style="border: 0; border-top: 3px solid #FF4500;">
+          <li>🗣️ <b>[Title 4](#)</b><br>
+              <i>🎤 Presented at:</i> <u>Conference Name</u>, <b>Year</b><br>
+              <i>🔗 Link:</i> <a href="#">Access Paper</a>
+          </li>
+          <hr style="border: 0; border-top: 3px solid #FF4500;">
+        </ol>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
   </p>
 </section>
 
