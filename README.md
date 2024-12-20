@@ -61,7 +61,9 @@
 
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=YassineOUKDACH&show_icons=true&theme=radical" alt="GitHub Stats">
-
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=YassineOUKDACH&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<br><br><br><br><br><br><br><br><br><br>
 # 📝 Publications
 
 <p align="center">
