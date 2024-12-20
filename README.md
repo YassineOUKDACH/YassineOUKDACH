@@ -70,8 +70,8 @@
 
 
 # 📝 Publications
-
-<p align="center">
+<section>
+  <p align="center">
 <table align="center" style="border: 2px solid #FFA500; border-collapse: collapse; width: 90%;">
 <thead>
 <tr style="background-color: #FF8C00; color: white; text-align: center;">
@@ -128,3 +128,4 @@
 </tbody>
 </table>
 </p>
+</section>
