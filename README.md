@@ -55,6 +55,10 @@
   <a href="https://learn.microsoft.com/en-us/windows/wsl/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="wsl" width="40" height="40"/> 
   </a> 
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
+</a>
+
 </p>
 
 # 📝 Publications
