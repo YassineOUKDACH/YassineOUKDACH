@@ -91,13 +91,13 @@
 <tr>
 <td style="padding: 15px; border: 1px solid #FFA500; background-color: #FFF8E1;">
 <ol>
-  <li>🖋️ <b>ViTCA-Net(#)</b><br>
+  <li>🖋️ <b>ViTCA-Net</b><br>
       <i>📚 Published in:</i> <u>MTAP</u>, <b>2024</b><br>
       <i>🔗 Link:</i> <a href="https://link.springer.com/article/10.1007/s11042-023-18039-1">Access Paper</a></li>
   <hr style="border: 0; border-top: 3px solid #FF4500;">
-  <li>🖋️ <b>[Title 2](#)</b><br>
-      <i>📚 Published in:</i> <u>Journal Name</u>, <b>Year</b><br>
-      <i>🔗 Link:</i> <a href="#">Access Paper</a></li>
+  <li>🖋️ <b>UViT-Seg</b><br>
+      <i>📚 Published in:</i> <u>JDIM</u>, <b>2024</b><br>
+      <i>🔗 Link:</i> <a href="#]https://link.springer.com/article/10.1007/s10278-024-01124-8">Access Paper</a></li>
   <hr style="border: 0; border-top: 3px solid #FF4500;">
   <li>🖋️ <b>[Title 3](#)</b><br>
       <i>📚 Published in:</i> <u>Journal Name</u>, <b>Year</b><br>
