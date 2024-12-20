@@ -8,14 +8,16 @@
 
 # 📝 Publications
 
-# 📝 Publications
-
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+<table align="center" style="border: 2px solid #555; border-collapse: collapse; width: 80%; box-shadow: 5px 5px 10px rgba(0,0,0,0.2);">
+<tr style="background-color: #2c2c2c; color: #ffffff; border-bottom: 2px solid #555;">
+<th width="50%" style="padding: 10px;">📄 **Research Papers**</th>
+<th width="50%" style="padding: 10px;">📘 **Conference Proceedings**</th>
+</tr>
 
-### 📄 **Research Papers**  
+<tr>
+<td style="padding: 10px; border: 1px solid #ddd; vertical-align: top;">
+
 1. 🖋️ **[Title 1](#)**  
    *📚 Published in*: _Journal Name_, **Year**  
    *🔗 Link*: [Access Paper](#)  
@@ -38,9 +40,8 @@
 
 </td>
 
-<td width="50%" align="center">
+<td style="padding: 10px; border: 1px solid #ddd; vertical-align: top;">
 
-### 📘 **Conference Proceedings**  
 1. 🗣️ **[Title 1](#)**  
    *🎤 Presented at*: _Conference Name_, **Year**  
    *🔗 Link*: [Access Paper](#)  
