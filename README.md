@@ -118,19 +118,19 @@
 <td style="padding: 15px; border: 1px solid #FFA500; background-color: #FFF8E1;">
 <ol>
   <li>🗣️ <b>1</b><br>
-      <i>🎤 Presented at:</i> <u>WINCOM</u>, <b>Year</b><br>
+      <i>🎤 Presented at:</i> <u>WINCOM</u>, <b>2022</b><br>
       <i>🔗 Link:</i> <a href="https://ieeexplore.ieee.org/document/9966474">Access Paper</a></li>
   <hr style="border: 0; border-top: 3px solid #FF4500;">
   <li>🗣️ <b>Con-ViT</b><br>
-      <i>🎤 Presented at:</i> <u>WINCOM</u>, <b>Year</b><br>
+      <i>🎤 Presented at:</i> <u>WINCOM</u>, <b>2023</b><br>
       <i>🔗 Link:</i> <a href="https://ieeexplore.ieee.org/document/10322944">Access Paper</a></li>
   <hr style="border: 0; border-top: 3px solid #FF4500;">
   <li>🗣️ <b>VGG16U-Net</b><br>
-      <i>🎤 Presented at:</i> <u>WINCOM</u>, <b>Year</b><br>
+      <i>🎤 Presented at:</i> <u>WINCOM</u>, <b>2024</b><br>
       <i>🔗 Link:</i> <a href="https://ieeexplore.ieee.org/document/10655022">Access Paper</a></li>
   <hr style="border: 0; border-top: 3px solid #FF4500;">
   <li>🗣️ <b>4</b><br>
-      <i>🎤 Presented at:</i> <u>WINCOM</u>, <b>Year</b><br>
+      <i>🎤 Presented at:</i> <u>WINCOM</u>, <b>2024</b><br>
       <i>🔗 Link:</i> <a href="https://ieeexplore.ieee.org/document/10656577">Access Paper</a></li>
 </ol>
 </td>
