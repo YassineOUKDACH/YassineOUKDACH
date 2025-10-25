@@ -2,7 +2,6 @@
 
 **Professor @ Faculty of Sciences, Agadir**  
 **Professor @ Universiapolis (Université Internationale d’Agadir)** 
-
 🎓 **Doctor in Computer Science and Artificial Intelligence**  
 💡 **Data Scientist** with expertise in analyzing and interpreting complex datasets.  
 🔬 My research focuses on **Artificial Intelligence in Healthcare**, with a primary focus on the **automatic detection of gastrointestinal diseases** using capsule endoscopy data.
