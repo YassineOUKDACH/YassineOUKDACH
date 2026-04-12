@@ -8,6 +8,7 @@
 🔬 My research focuses on **Artificial Intelligence in Healthcare**, with a primary focus on the **automatic detection of gastrointestinal diseases** using capsule endoscopy data.
 
 💼 Freelance Data Scientist & MLOps Developer with experience working with Moroccan and international enterprises, building scalable, end-to-end AI solutions from data processing to deployment
+
 ---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
